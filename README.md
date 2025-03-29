@@ -39,6 +39,7 @@ ThemeToggle   - Dark/Light mode toggle
 App.jsx         - Main application component
 main.jsx        - Application entry point
 
+```
 
 ## ⚙ Implementation Details
 
