@@ -76,7 +76,7 @@ main.jsx        - Application entry point
 ### Installation
 
 1. Clone the repository
-   ```bash
+   
    git clone https://github.com/rahul87sharma/Weather-app.git
    cd Weather-app
 
