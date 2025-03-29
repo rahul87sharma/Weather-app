@@ -83,7 +83,7 @@ main.jsx        - Application entry point
 2. Install dependencies
 
 npm install
-# or
+or
 yarn install
 
 3. Create a .env file in the root directory with your API key
@@ -93,7 +93,7 @@ VITE_OPENWEATHER_API_KEY=your_api_key_here
 4. Start the development server
 
 npm run dev
-# or
+or
 yarn dev
 
 5. Open your browser and navigate to http://localhost:5173
@@ -101,7 +101,7 @@ yarn dev
 📦 Build for Production
 
 npm run build
-# or
+or
 yarn build
 
 🤝 Contributing
