@@ -25,6 +25,7 @@ A modern, responsive weather application built with React and Vite that provides
 - *Local Storage*: For persisting user preferences and search history
 
 ## 📋 Project Structure
+```bash
 /src
 /assets         - Static assets
 /components     - React components
